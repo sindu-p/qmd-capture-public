@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Bicycle Health",
+    "capturedAt": "2026-10-29T15:06:49.368Z",
+    "screens": [
+      {
+        "n": 1,
+        "label": "Homepage",
+        "url": "https://www.bicyclehealth.com/",
+        "file": "flow-bicycle-1.png"
+      },
+      {
+        "n": 2,
+        "label": "We are here to help",
+        "url": "https://www.bicyclehealth.com/we-are-here-to-help",
+        "file": "flow-bicycle-2.png"
+      },
+      {
+        "n": 3,
+        "label": "Intake form",
+        "url": "https://bicyclehealth.jotform.com/242005503718953?hours=open",
+        "file": "flow-bicycle-3.png"
+      }
+    ],
+    "gate": {
+      "atStep": 3,
+      "url": "https://bicyclehealth.jotform.com/242005503718953?hours=open",
+      "fieldsAsked": [
+        "All fields marked with* are required and must be completed.",
+        "Full Legal Name*",
+        "First Name",
+        "Last Name",
+        "Email*",
+        "Email"
+      ]
+    },
+    "errors": [],
+    "stepsReached": 3
+  }
+]

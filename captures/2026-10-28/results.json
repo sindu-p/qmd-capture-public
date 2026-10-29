@@ -1,0 +1,198 @@
+[
+  {
+    "name": "QuickMD",
+    "capturedAt": "2026-10-28T16:25:52.128Z",
+    "pages": {
+      "home": {
+        "title": "Online Doctor Visits, Same-Day Appointments | QuickMD",
+        "headline": "Take control of 7-OH and kratom\nwith online doctor visits",
+        "description": "See a licensed doctor online, often the same day. QuickMD treats addiction, mental health, menopause, and weight loss. No insurance required. Book now.",
+        "prices": []
+      },
+      "pricing": {
+        "title": "Pricing: What an Online Doctor Visit Costs | QuickMD",
+        "headline": "Quality care at prices you can afford",
+        "description": "Visit prices start at $19 and vary by service, with no insurance and no membership required. See what each QuickMD visit costs before you book.",
+        "prices": []
+      },
+      "opioid": {
+        "title": "Online Opioid Addiction Treatment | QuickMD",
+        "headline": "Online treatment for opioid addiction and dependence",
+        "description": "Treat opioid addiction online at QuickMD. Same-day visits with a licensed doctor, Suboxone® if eligible, and follow-up care every month. No insurance required.",
+        "prices": []
+      },
+      "suboxone": {
+        "title": "Get Your Suboxone Prescription Online Today | QuickMD",
+        "headline": "Get your Suboxone® prescription online",
+        "description": "Treat opioid addiction with Suboxone from home. Same-day visits, licensed doctors, prescription sent same day. $99 per visit, no insurance needed.",
+        "prices": [
+          "$99"
+        ]
+      },
+      "kratom": {
+        "title": "Kratom & 7-OH Addiction Treatment Online | QuickMD",
+        "headline": "Quit 7-OH & kratom with online treatment that works",
+        "description": "Get online treatment for kratom and 7-OH addiction. Same-day visits with a licensed doctor, no insurance required. Start today at QuickMD.",
+        "prices": [
+          "$79",
+          "$395",
+          "$99"
+        ]
+      }
+    },
+    "errors": []
+  },
+  {
+    "name": "Workit Health",
+    "capturedAt": "2026-10-28T16:26:11.597Z",
+    "pages": {
+      "home": {
+        "title": "Virtual Suboxone and Naltrexone for Addiction - Workit Health",
+        "headline": "Workit Health Presents:\nA Dopey Interview\nof comedian  Margaret Cho  · Wed, Sept 23 ·  7pm est  ·  Live on YouTube",
+        "description": "Workit Health is the most trusted provider of telemedicine opioid and alcohol treatment, including Suboxone and naltrexone.",
+        "prices": [
+          "$25",
+          "$35",
+          "$35 / mo",
+          "$75",
+          "$90",
+          "$300/mo",
+          "$150",
+          "$250"
+        ]
+      },
+      "pricing": {
+        "title": "We Accept Insurance - Workit Health",
+        "headline": "Workit Health Presents:\nA Dopey Interview\nof comedian  Margaret Cho  · Wed, Sept 23 ·  7pm est  ·  Live on YouTube",
+        "description": "Workit Health accepts insurance plans to help you quit opioids, alcohol, or 7-OH. Check your coverage and see self-pay options here.",
+        "prices": [
+          "$25",
+          "$35/mo",
+          "$35",
+          "$90",
+          "$75",
+          "$300/mo",
+          "$375",
+          "$250",
+          "$150",
+          "$150/mo"
+        ]
+      },
+      "opioid": {
+        "title": "Opioid Addiction Treatment - Workit Health",
+        "headline": "Workit Health Presents:\nA Dopey Interview\nof comedian  Margaret Cho  · Wed, Sept 23 ·  7pm est  ·  Live on YouTube",
+        "description": "Workit Health provides online opioid addiction treatment care through prescriptions and support. Click to learn more about Suboxone for opioid use disorder.",
+        "prices": [
+          "$25",
+          "$35"
+        ]
+      },
+      "kratom": {
+        "title": "Kratom and 7-OH - Workit Health",
+        "headline": "Workit Health Presents:\nA Dopey Interview\nof comedian  Margaret Cho  · Wed, Sept 23 ·  7pm est  ·  Live on YouTube",
+        "description": "Kratom · 7-OH Online treatment Started with kratom and now stuck without it? Get online treatment for 7-OH and kratom dependence. Our licensed providers",
+        "prices": [
+          "$25",
+          "$35"
+        ]
+      }
+    },
+    "errors": []
+  },
+  {
+    "name": "Bicycle Health",
+    "capturedAt": "2026-10-28T16:26:29.154Z",
+    "pages": {
+      "home": {
+        "title": "Bicycle Health: Confidential Online Suboxone Treatment",
+        "headline": "THE PATH AHEAD\nSTARTS\nHERE",
+        "description": "Embark on your journey to recovery with Bicycle Health, an online medication assisted treatment provider for opioid dependence.",
+        "prices": [
+          "$249/mo",
+          "$10"
+        ]
+      },
+      "pricing": {
+        "title": "Insurance & Pricing | Bicycle Health",
+        "headline": "HELPING PEOPLE LEAD FULFILLING LIVES, FREE FROM OPIOID ADDICTION.",
+        "description": "Online Medication Assisted Treatment for Opioid Dependence. Get meds at home.",
+        "prices": [
+          "$10"
+        ]
+      },
+      "how-it-works": {
+        "title": "How Bicycle Health Works | MAT, OUD Treatment Online | Bicycle Health",
+        "headline": "YOU DON'T HAVE TO FIGURE THIS OUT ALONE.",
+        "description": "Online Medication Assisted Treatment for Opioid Dependence. Get meds at home.",
+        "prices": [
+          "$10"
+        ]
+      },
+      "suboxone": {
+        "title": "Suboxone Online: Same-Day Online Suboxone Doctors | Bicycle Health",
+        "headline": "ONLINE SUBOXONE DOCTORS",
+        "description": "Get Suboxone online from licensed providers. Same-day appointments when possible, most insured patients pay under $35 a month, and self-pay is available.",
+        "prices": [
+          "$35",
+          "$249",
+          "$0",
+          "$150,",
+          "$150",
+          "$10"
+        ]
+      }
+    },
+    "errors": []
+  },
+  {
+    "name": "Ophelia",
+    "capturedAt": "2026-10-28T16:26:45.738Z",
+    "pages": {
+      "home": {
+        "title": "Online Treatment for Opioid Addiction & Dependence | Ophelia",
+        "headline": "Reduce opioid cravings and manage withdrawal with Suboxone®",
+        "description": "Get private, evidence-based opioid use disorder treatment at home. Video visits, local pharmacy pickup for Suboxone if eligible, and support 7 days a week.",
+        "prices": [
+          "$10/mo"
+        ]
+      },
+      "pricing": {
+        "title": "Online Suboxone Doctors that Accept Insurance | Ophelia",
+        "headline": "Find online Suboxone® treatment that takes your insurance",
+        "description": "Find online Suboxone doctors that take insurance with Ophelia. Check if Suboxone is covered on your plan, explore self-pay options, and understand costs.",
+        "prices": [
+          "$10/mo"
+        ]
+      },
+      "how-it-works": {
+        "title": "How Ophelia Works: Online OUD Treatment With Suboxone | Ophelia",
+        "headline": "How Ophelia works",
+        "description": "See how Ophelia’s virtual care works: meet your team, get a Suboxone prescription if eligible, and get ongoing support 7 days a week.",
+        "prices": []
+      },
+      "opioid": {
+        "title": "Online Opioid Addiction Treatment | Virtual Clinicians for OUD | Ophelia",
+        "headline": "Online opioid addiction treatment from licensed virtual clinicians",
+        "description": "Explore online opioid addiction treatment options with licensed virtual clinicians, evidence-based medication, and ongoing support from Ophelia.",
+        "prices": [
+          "$10"
+        ]
+      },
+      "suboxone": {
+        "title": "Online Suboxone Doctors | Virtual Suboxone Clinic | Ophelia",
+        "headline": "Online Suboxone® treatment from licensed clinicians",
+        "description": "Get an online Suboxone prescription from licensed clinicians via telehealth. Manage opioid cravings and withdrawal symptoms with virtual Suboxone treatment.",
+        "prices": [
+          "$10"
+        ]
+      },
+      "kratom": {
+        "title": "Kratom & Opioid Use Disorder | Treatment That Works | Ophelia",
+        "headline": "Struggling with Kratom-derived products? There's a safer approach to treatment.",
+        "description": "Using kratom to manage opioid withdrawal? There's a safer, proven treatment. Ophelia offers telehealth MAT. Start treatment today from home.",
+        "prices": []
+      }
+    },
+    "errors": []
+  }
+]
