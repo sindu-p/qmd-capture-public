@@ -1,7 +1,73 @@
 [
   {
+    "name": "QuickMD",
+    "capturedAt": "2026-10-29T16:43:35.609Z",
+    "screens": [
+      {
+        "n": 1,
+        "label": "Homepage",
+        "url": "https://www.quick.md/",
+        "file": "flow-quickmd-1.png"
+      },
+      {
+        "n": 2,
+        "label": "State + service",
+        "url": "https://booking.quick.md/services?state=VA",
+        "file": "flow-quickmd-2.png"
+      }
+    ],
+    "gate": {
+      "atStep": 2,
+      "url": "https://booking.quick.md/services?state=VA",
+      "fieldsAsked": []
+    },
+    "errors": [],
+    "stepsReached": 2
+  },
+  {
+    "name": "Workit Health",
+    "capturedAt": "2026-10-29T16:43:51.386Z",
+    "screens": [
+      {
+        "n": 1,
+        "label": "Homepage",
+        "url": "https://www.workithealth.com/",
+        "file": "flow-workit-1.png"
+      },
+      {
+        "n": 2,
+        "label": "Sign-up splash",
+        "url": "https://app.workithealth.com/signup",
+        "file": "flow-workit-2.png"
+      },
+      {
+        "n": 3,
+        "label": "Profile form",
+        "url": "https://app.workithealth.com/onboarding/create_account",
+        "file": "flow-workit-3.png"
+      }
+    ],
+    "gate": {
+      "atStep": 3,
+      "url": "https://app.workithealth.com/onboarding/create_account",
+      "fieldsAsked": [
+        "First Name (Preferred) (Required)",
+        "Date of Birth (mm/dd/yyyy) (Required)",
+        "State (Required)",
+        "How did you hear about us? (Required)",
+        "Email Address (Required)",
+        "Phone Number (Required)",
+        "Your Password (Required)",
+        "Confirm Password (Required)",
+        "I agree to Workit's terms of service and privacy policy."
+      ]
+    },
+    "errors": [],
+    "stepsReached": 3
+  },
+  {
     "name": "Bicycle Health",
-    "capturedAt": "2026-10-29T15:06:49.368Z",
+    "capturedAt": "2026-10-29T16:44:11.953Z",
     "screens": [
       {
         "n": 1,
@@ -36,5 +102,50 @@
     },
     "errors": [],
     "stepsReached": 3
+  },
+  {
+    "name": "Ophelia",
+    "capturedAt": "2026-10-29T16:44:39.672Z",
+    "screens": [
+      {
+        "n": 1,
+        "label": "Homepage",
+        "url": "https://ophelia.com/",
+        "file": "flow-ophelia-1.png"
+      },
+      {
+        "n": 2,
+        "label": "Join 20k+ patients",
+        "url": "https://welcome.ophelia.com/welcome",
+        "file": "flow-ophelia-2.png"
+      },
+      {
+        "n": 3,
+        "label": "What we offer",
+        "url": "https://welcome.ophelia.com/what-we-offer",
+        "file": "flow-ophelia-3.png"
+      },
+      {
+        "n": 4,
+        "label": "How it works",
+        "url": "https://welcome.ophelia.com/next-steps",
+        "file": "flow-ophelia-4.png"
+      },
+      {
+        "n": 5,
+        "label": "State of residence",
+        "url": "https://welcome.ophelia.com/residence-and-phone",
+        "file": "flow-ophelia-5.png"
+      }
+    ],
+    "gate": {
+      "atStep": 5,
+      "url": "https://welcome.ophelia.com/residence-and-phone",
+      "fieldsAsked": [
+        "Primary state of residence"
+      ]
+    },
+    "errors": [],
+    "stepsReached": 5
   }
 ]
