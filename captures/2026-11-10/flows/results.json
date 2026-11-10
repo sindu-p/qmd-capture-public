@@ -1,7 +1,7 @@
 [
   {
     "name": "QuickMD",
-    "capturedAt": "2026-11-10T01:04:14.971Z",
+    "capturedAt": "2026-11-10T01:44:56.911Z",
     "screens": [
       {
         "n": 1,
@@ -12,13 +12,13 @@
       {
         "n": 2,
         "label": "State + service",
-        "url": "https://booking.quick.md/services?state=WA",
+        "url": "https://booking.quick.md/services?state=IL",
         "file": "flow-quickmd-2.png"
       }
     ],
     "gate": {
       "atStep": 2,
-      "url": "https://booking.quick.md/services?state=WA",
+      "url": "https://booking.quick.md/services?state=IL",
       "fieldsAsked": []
     },
     "errors": [],
@@ -26,7 +26,7 @@
   },
   {
     "name": "Workit Health",
-    "capturedAt": "2026-11-10T01:04:30.602Z",
+    "capturedAt": "2026-11-10T01:45:13.777Z",
     "screens": [
       {
         "n": 1,
@@ -39,17 +39,35 @@
         "label": "Sign-up splash",
         "url": "https://app.workithealth.com/signup",
         "file": "flow-workit-2.png"
+      },
+      {
+        "n": 3,
+        "label": "Profile form",
+        "url": "https://app.workithealth.com/onboarding/create_account",
+        "file": "flow-workit-3.png"
       }
     ],
-    "gate": null,
-    "errors": [
-      "step 3 (Profile form): locator.click: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator('button:has-text(\"Continue\")').visible().first()\n    - locator resolved to <button id=\"\" type=\"button\" class=\"submit-button\">Continue</button>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"cm-wrapper cc--anim\">…</div> from <div id=\"cc-main\" data-nosnippet=\"\">…</div> subtree intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class=\"cm-wrapper cc--anim\">…</div> from <div id=\"cc-main\" data-nosnippet=\"\">…</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    29 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <div class=\"cm-wrapper cc--anim\">…</div> from <div id=\"cc-main\" data-nosnippet=\"\">…</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n"
-    ],
-    "stepsReached": 2
+    "gate": {
+      "atStep": 3,
+      "url": "https://app.workithealth.com/onboarding/create_account",
+      "fieldsAsked": [
+        "First Name (Preferred) (Required)",
+        "Date of Birth (mm/dd/yyyy) (Required)",
+        "State (Required)",
+        "How did you hear about us? (Required)",
+        "Email Address (Required)",
+        "Phone Number (Required)",
+        "Your Password (Required)",
+        "Confirm Password (Required)",
+        "I agree to Workit's terms of service and privacy policy."
+      ]
+    },
+    "errors": [],
+    "stepsReached": 3
   },
   {
     "name": "Bicycle Health",
-    "capturedAt": "2026-11-10T01:04:55.134Z",
+    "capturedAt": "2026-11-10T01:45:35.130Z",
     "screens": [
       {
         "n": 1,
@@ -87,7 +105,7 @@
   },
   {
     "name": "Ophelia",
-    "capturedAt": "2026-11-10T01:05:22.613Z",
+    "capturedAt": "2026-11-10T01:46:03.071Z",
     "screens": [
       {
         "n": 1,
@@ -132,7 +150,7 @@
   },
   {
     "name": "Boulder Care",
-    "capturedAt": "2026-11-10T01:06:04.942Z",
+    "capturedAt": "2026-11-10T01:46:45.810Z",
     "screens": [
       {
         "n": 1,
