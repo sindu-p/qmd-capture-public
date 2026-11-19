@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-18T11:54:53.869Z",
+  "updated": "2026-11-19T11:53:26.082Z",
   "items": [
+    {
+      "competitor": "Bicycle Health",
+      "title": "Bicycle Health Appoints Former Humana President Bruce Perkins to Board of Directors to Support Addiction Treatment Expansion",
+      "source": "citybiz",
+      "date": "2026-11-18",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbzY0OERjVmdJOVpjNXViMU1NbjBMMVpRSGZCWFN5Nkt6cnhpWGtaS2ZwQWhQdm1Ja0JKQ3hnWjR6WUNHa29wR08yYXJZMmZROVNiUkxpTmRSQkRBbWk1bDZzZUhFMDAtSU1ONGplQ0ZxV3FJMWlVRG9Dc0oyQnYxbjFkMzJjdjVwTjVBVEI5NTNSdHVkQUpRUF9zbno4dTJocGlLczJyZ1hwT21GMUxLNEs5YzBoMS1TaGxhS0U2V2xJM29EWmIzN0tPbmpNTHluQ3FISTVTTlVfQTlJdWlDSUlUV244eUFmRmdad2xfdU1YNU1NRkE?oc=5"
+    },
+    {
+      "competitor": "Bicycle Health",
+      "title": "Bicycle Health Appoints Former Humana President Bruce Perkins to Board of Directors",
+      "source": "Business Wire",
+      "date": "2026-11-18",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM0hRRlNjblRneXQtVVAxa0pOV1RuUUNKLTViakNtX3c3SXJ4ZjlZTzBkLTE2T0tTbkcyaHJ2V3RheFJ0ZnlKOHhlemtJUkpWYXIxbFFqblpJN2FVbGVYUUtLdVhvUmplTEFfZXlRXzVoUnU5MFVqakRZQ3A3RWxoR2I3YmdwcWc1M091ZUxPVTVlT2YyUmxzLUVINWhUWFpvR3d4LTdiVF9wd1ZrcWNrNjNpNnJmWTlJdWg1bEkyZ3FER09sRVFXV0Y0aWxjM2c5a1RybEFPNA?oc=5"
+    },
     {
       "competitor": "Ophelia",
       "title": "Telehealth Coaching Pilot for Autistic Children in Palestine Shows Mixed Feasibility",
@@ -28,6 +42,13 @@
       "source": "Behavioral Health Business",
       "date": "2026-11-16",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFJHMUN1dVpiX1RxNllCc0VCSWhubkc3VW5od3JUSDJldTVUUkhrbmR2bkc0XzQwcG1JODFLTG4wVDFZWnRldHFNWXNsVVdPZkgwNHY3emhQUUxUZU5jZVJlR3ZVUzR2WTI1RTY5bmgwOUNFRTdNMk1sTUkySG1TaERhNEU3dFE4UzlfV0FJTVoyNWNuczNrdDdzU2ZpclllZmE3TEVlZm9vaWpCcFNXOFVOQXVaUTlNNFdXYg?oc=5"
+    },
+    {
+      "competitor": "Ophelia",
+      "title": "Preoperative Nutritional Risk Linked to Higher Opioid Consumption After Hip Fracture Surgery",
+      "source": "Bioengineer.org",
+      "date": "2026-11-14",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWUwYmZlQ1JJTnpZVDdadFFyd3NhNUQzZWd1OF9MYjRuWkRibzVGbkoxeDhqVFl1VUVQazRDZTRleFFZNmtVY3VpQllNeU52VHdUOXVFRUdJQjZhc0VTejJYeHU0eWZFSFFsb1JRYXlrZVZFQjFMT1I3cWxkU2JYZDV6dHBmeFk1dFdqRDJzZk13OEI1UTUtUlBMRnZfUjA1UUxxam9fQkpOZ0lQVUdQTXJYQlRORXhy?oc=5"
     },
     {
       "competitor": "Ophelia",
@@ -66,13 +87,6 @@
     },
     {
       "competitor": "Ophelia",
-      "title": "Pain and Opioid Trajectories After Hip Fracture Nerve Block Linked to Higher Delirium Risk in Older Patients",
-      "source": "Bioengineer.org",
-      "date": "2026-11-05",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzZLTmFYb01nTmdEY1VVb21TaWo1dVVvV2lnbEZUNlF4MFVucjlfWHZGVDBOa08zcWNxQW5rdnAyOWFaZFZPUHIta0Roa1dfZWR6eG1ZTUNRZFFfdXZVQm9hZkN6RHZsZjFRRFNYaWwtcVVrbTZtXzVuN0NSWmItS3RXQjdWTjUtTHJYMEdaTnZRNklaZzFxUWV5LW44TUM2TE5HbzJHbDUyZ0E3eGhSaU5PNWFvTS1YX2ZVdW54blVrNWxVTlZzVFpiRExvUQ?oc=5"
-    },
-    {
-      "competitor": "Ophelia",
       "title": "Nerve Block Before Kidney Stone Surgery Cuts Opioid Needs and Speeds Recovery",
       "source": "Bioengineer.org",
       "date": "2026-11-04",
@@ -102,9 +116,9 @@
     {
       "competitor": "QuickMD",
       "title": "Kratom and 7-OH Now Half of QuickMD's New Addiction Patients, Up 5x as Federal Restrictions Loom",
-      "source": "Newswire",
+      "source": "Yahoo Finance",
       "date": "2026-10-27",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0JrTERzU3paVEstRTBoalo2REhGdjNDQmlpS2VPdU91bUNRQkc4YlZmSEY3MWhJM0hCb3dEc0Z2WWpJUG4tWWM5elJmM09OYVNBU3Mtd1J1NzZaLXF0Z2RBSm53OGVRSXVXcEV5cDVVd0lsVnJrUVlRRHRVTlVCTldBaXdidlFLRVlJeEdQZGRQVmdNb3h1U2wtUVUteDd4SDRpY1p2RkpRUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQREFxYzRjeFNHNHI5Z0VnS3Y4a1A4QmRsNnNPZ3BZUzE2eEFkbTdlN04ydmhpQUlPZElRR3hGMVloRENSaS1wNUJycXFxblVHUUlWOTFTOE9yRXhkeUZFT3ZHaVNPZ3phNmRnNFhoU3lPczZsaUdVNnhjQXFOSG0tN0lrLVFLNUN4?oc=5"
     },
     {
       "competitor": "Workit Health",
@@ -123,9 +137,9 @@
     {
       "competitor": "QuickMD",
       "title": "QuickMD Surpasses 2 Million Patient Visits",
-      "source": "ACCESS Newswire",
+      "source": "Newswire",
       "date": "2026-10-13",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2tnWFJicUQ4bHc4QUlCUW5yaW9XVng3THpPRjk1NkxhcE40ODdxTVR3NUgwQ0lwOXpZSG1WaXpuSjdiSUptOXFGMnA5VE5ZTGFUMGVaak00aGUxY3VUc2ZwckFKVTRUem00M2o1YmhyaEkzTmJub3I5bkp0N3FvWEl5WFd3eHNjRzNGaDBQYVpjbkh4bGVFNWx6ZFRISW1Cd1lCZ0YyQ2VwWW1xR3RiMlBZUzhtNXhua3V3UXdqMko?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DWVJqRHFETFFEeTJORTE3eW1jd2RvQUN5eTVmbndoNkdUUkd5b1VwTi1qTTFfTVdrNGZJQzQtbkhIMV9NNFpRMk1rRjJBdFdzdElaZ1I2S1E5QVg0eURPVUdQWlZpdkQ3Qk1aWEdtNlplTk9TWDdiN0FuY3I?oc=5"
     },
     {
       "competitor": "Bicycle Health",
